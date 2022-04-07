@@ -7,7 +7,7 @@
  * original array, you increment the counter at that index. At the end,
  * run through your counting array, printing the value of each non-zero valued index
  * that number of times.
- *
+ * !!!!Значения в массиве от 0 до 100
  * @param $arr
  * @return array
  */
